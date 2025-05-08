@@ -1,0 +1,33 @@
+Sobre o Comportamento de Uso
+Quais são os padrões de uso da plataforma entre escolas que permanecem versus as que cancelam?
+
+Qual a frequência média de acesso por tipo de usuário (professores, alunos, gestores) nas escolas que cancelaram nos últimos 6 meses?
+
+Existem funcionalidades da plataforma que têm maior correlação com a permanência dos clientes?
+
+Sobre a Jornada do Cliente
+Quanto tempo, em média, uma escola leva desde o onboarding até atingir o "primeiro valor" (first value) na plataforma?
+
+Existe uma janela crítica (ex: primeiros 30 ou 60 dias) em que o engajamento prediz o risco de churn?
+
+Como está o engajamento das escolas recém-contratadas comparado com as veteranas?
+
+Sobre o Perfil das Escolas
+Que características (número de alunos, localização, tipo de escola, porte) estão mais associadas a churn?
+
+Quais segmentos de escolas apresentam maior risco de cancelamento?
+
+Sobre Suporte e Relacionamento
+Qual a frequência e tipo de chamados abertos por escolas que cancelam? Existe um padrão?
+
+As escolas que participaram de treinamentos ou ações de relacionamento têm menor churn?
+
+Sobre o Histórico Financeiro
+Há correlação entre inadimplência e cancelamento?
+
+O tempo médio de contrato influencia o churn? Há diferença entre contratos mensais, trimestrais ou anuais?
+
+Previsibilidade e Ações Preventivas
+Com base nos dados históricos, conseguimos prever com boa acurácia quais escolas têm alto risco de churn nos próximos 30-60 dias?
+
+Que indicadores deveríamos monitorar continuamente como "sinais de alerta"?
